@@ -1,4 +1,4 @@
-# flutter_barcode_scanner
+# flutter_bc_scanner
 
 A new Flutter project.
 
